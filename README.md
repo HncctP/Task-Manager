@@ -20,7 +20,7 @@ A simple Laravel-based task management system to showcase your skills on GitHub 
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/laravel-task-manager.git
+git clone https://github.com/Hncct/laravel-task-manager.git
 cd laravel-task-manager
 composer install
 cp .env.example .env
